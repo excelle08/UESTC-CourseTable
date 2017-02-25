@@ -1,4 +1,6 @@
 *.pyc
 venv
 *.log
+.idea
 sample.py
+sample
